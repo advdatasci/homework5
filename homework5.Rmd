@@ -4,5 +4,36 @@ output: html_document
 author: "Your Name"
 ---
 
-## Data Analyses
+## Data Analysis
 
+Read this paper:
+
+  - https://www.medrxiv.org/content/10.1101/2020.06.15.20131979v2.full.pdf
+
+## Summary
+
+Delete this text and write a brief one paragraph summary of what the two websites describe
+
+## Audience
+
+Delete this text and answer who you think the target audience of each analysis is
+
+## Figures
+
+Delete this text and describe the main message of each of the figures in the paper 
+
+## Figure results critique
+
+Delete this text and describe whether you found it easy or hard to identify the empirical results in the figures and why
+
+## Figure purpose critique
+
+Delete this text and describe whether you found it easy or hard to identify the purpose for each of the figures and why
+
+## Methods critique
+
+Delete this text and describe whether you found it easy or hard to follow the methods used to answer the paper's take home question and why
+
+## What did you like
+
+Delete this text and describe some good things the authors did that will help you in your future analyses
